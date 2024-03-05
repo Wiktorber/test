@@ -1,0 +1,36 @@
+body{
+    background-color: #add8e6;
+    margin-left: 10%;
+    margin-right:10%;
+}
+h1,h2,h3{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+    margin: 5%;
+}
+#maintext
+{
+    color: black;
+    font-family: arial;
+    text-align: justify;
+}
+
+
+a{font-size: 2em;
+    color: darkblue;
+    text-align: center;
+    text-decoration: none;
+
+}
+.fullwidthContent
+{
+    width:100%;
+}
+.anchorLarge{
+
+    color: red;
+    font-size: 2em;
+    padding: 5%;
+}
